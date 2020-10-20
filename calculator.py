@@ -1,4 +1,4 @@
-print("--- Welcome ---")
+print("--- Welcome ---")    //tambah komen diatas 
 
 run = True
 
